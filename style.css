@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Roboto:wght@400;500&display=swap');
+@import './css/base/var.css';
+@import './css/base/base.css';
+@import './css/base/utils.css';
+@import './css/sections/nav.css';
+@import './css/sections/hero.css';
+@import './css/sections/about.css';
+@import './css/sections/process.css';
+@import './css/sections/cta.css';
+@import './css/sections/footer.css';
+
